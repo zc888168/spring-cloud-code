@@ -70,6 +70,7 @@ public class DynamicRouteServiceImpl implements ApplicationEventPublisherAware {
      */
     public String delete(String id) {
         try {
+            //FIXME delete invalid
             this.routeDefinitionWriter.delete(Mono.just(id));
             return "delete success";
         } catch (Exception e) {

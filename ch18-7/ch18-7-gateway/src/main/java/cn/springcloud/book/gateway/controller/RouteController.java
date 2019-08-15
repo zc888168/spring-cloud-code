@@ -1,9 +1,11 @@
 package cn.springcloud.book.gateway.controller;
 
+import cn.springcloud.book.gateway.model.GatewayFilterDefinition;
 import cn.springcloud.book.gateway.model.GatewayPredicateDefinition;
 import cn.springcloud.book.gateway.model.GatewayRouteDefinition;
 import cn.springcloud.book.gateway.route.DynamicRouteServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.cloud.gateway.filter.FilterDefinition;
 import org.springframework.cloud.gateway.handler.predicate.PredicateDefinition;
 import org.springframework.cloud.gateway.route.RouteDefinition;
 import org.springframework.http.ResponseEntity;
