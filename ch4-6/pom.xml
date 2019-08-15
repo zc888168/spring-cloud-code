@@ -22,9 +22,9 @@
     </properties>
 
     <modules>
-        <module>ch4-6-consumer</module>
-        <module>ch4-6-provider</module>
         <module>ch4-6-provider-client</module>
+<!--        <module>ch4-6-consumer</module>-->
+<!--        <module>ch4-6-provider</module>-->
         <module>ch4-6-eureka-server</module>
     </modules>
 

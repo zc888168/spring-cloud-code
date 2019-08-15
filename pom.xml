@@ -48,7 +48,7 @@
         <module>ch8-6</module>
         <module>ch8-7</module>
 
-        <module>ch10-1</module>
+<!--        <module>ch10-1</module>-->
 
         <module>ch11-1</module>
         <module>ch11-2</module>
@@ -58,12 +58,12 @@
         <module>ch12-2</module>
         <module>ch12-3</module>
         <module>ch12-4</module>
-        <module>ch12-5</module>
-        <module>ch12-6</module>
-        <module>ch12-7</module>
-        <module>ch12-8</module>
-        <module>ch12-9</module>
-        <module>ch12-10</module>
+<!--        <module>ch12-5</module>-->
+<!--        <module>ch12-6</module>-->
+<!--        <module>ch12-7</module>-->
+<!--        <module>ch12-8</module>-->
+<!--        <module>ch12-9</module>-->
+<!--        <module>ch12-10</module>-->
 
         <module>ch13-1</module>
 
@@ -73,11 +73,11 @@
         <module>ch14-4</module>
         <module>ch14-5</module>
 
-        <module>ch15-1</module>
+<!--        <module>ch15-1</module>-->
 
         <module>ch16-1</module>
         <module>ch16-2</module>
-        <module>ch16-3</module>
+<!--        <module>ch16-3</module>-->
 
         <module>ch17-1</module>
         <module>ch17-2</module>
@@ -89,17 +89,17 @@
         <module>ch18-4</module>
         <module>ch18-5</module>
         <module>ch18-6</module>
-        <module>ch18-7</module>
+<!--        <module>ch18-7</module>-->
 
-        <module>ch19-1</module>
-        <module>ch19-2</module>
-        <module>ch20</module>
+<!--        <module>ch19-1</module>-->
+<!--        <module>ch19-2</module>-->
+<!--        <module>ch20</module>-->
 
-        <module>ch21-1</module>
+<!--        <module>ch21-1</module>-->
 
-        <module>ch22-1</module>
-        <module>ch22-2</module>
-        <module>ch22-3</module>
+<!--        <module>ch22-1</module>-->
+<!--        <module>ch22-2</module>-->
+<!--        <module>ch22-3</module>-->
 
         <module>ch23-1</module>
         <module>ch23-2</module>
